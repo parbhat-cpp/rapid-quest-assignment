@@ -44,7 +44,7 @@ const Homepage = () => {
                         <Button onClick={handleBtnClick} className="bg-transparent border-white border-2">Join now</Button>
                     </div>
                     <div>
-                        <img src=".\src\assets\hero.png" height={530} width={530} alt="Email Builder Hero Image"/>
+                        <img src="https://res.cloudinary.com/dh1qmnzyn/image/upload/v1737551678/Untitled_design-removebg-preview_sstrob.png" height={530} width={530} alt="Email Builder Hero Image"/>
                     </div>
                 </div>
             </div>
