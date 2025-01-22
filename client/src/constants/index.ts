@@ -1,0 +1,1 @@
+export const defaultEmailLayout = `<p style="text-align: center;"><img src="https://img.icons8.com/?size=256w&id=X0mEIh0RyDdL&format=png" style="width: 149px;" class="fr-fic fr-dib"></p><p style="text-align: center;"><strong>Sample Title</strong></p><p style="text-align: center;">Sample Body</p>`;
