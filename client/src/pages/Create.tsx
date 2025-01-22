@@ -90,7 +90,7 @@ const Create = () => {
                 }
               }).then(res => {
                 const response = res as any;
-                editor!.image.insert(res.data.url, null, null, editor!.image.get());
+                editor!.image.insert(response.data.url, null, null, editor!.image.get());
               }).catch(err => {
                 console.log(err);
               });
